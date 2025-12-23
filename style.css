@@ -5,7 +5,10 @@
     font-family: initial;
 }
 body{
-    background-color: #f0f0f0;
+    background: linear-gradient( 135deg,
+    #0056b3,
+    #0057b36a);
+    min-height: 100vh;
 }
 h2, h3{
     color:#3e3e3ed4;
@@ -16,7 +19,7 @@ h2, h3{
     margin: 10px auto;
     padding: 20px;
     background-color: #fff;
-      margin: 50px auto;
+      margin: 50px auto;   /* centers the whole dictionary */
     text-align: center; 
 
 }
